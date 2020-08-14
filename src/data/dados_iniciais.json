@@ -1,0 +1,191 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pica Pau",
+      "link": "https://pt.wikipedia.org/wiki/Pica-Pau_(personagem)",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Funk do pica pau, peróla de 2008",
+        "url": "https://www.youtube.com/watch?v=jHQis_UP4io"
+      },
+      "videos": [
+        {
+          "titulo": "Fujiwara Chika",
+          "url": "https://www.youtube.com/watch?v=UJyIR0Z-LhE"
+        },
+        {
+          "titulo": "Demônios do tempo justo",
+          "url": "https://www.youtube.com/watch?v=K_mcKujHY50"
+        },
+        {
+          "titulo": "Jantar Convidado",
+          "url": "https://www.youtube.com/watch?v=_dtaJ_aYi9w"
+        },
+        {
+          "titulo": "Os Azares de Um Corvo",
+          "url": "https://www.youtube.com/watch?v=njkLJ50tFRk"
+        },
+        {
+          "titulo": "Chefe Charlie Cavalo",
+          "url": "https://www.youtube.com/watch?v=-e09Aymmqj4"
+        },
+        {
+          "titulo": "Depois da Bola",
+          "url": "https://www.youtube.com/watch?v=piUtBMyJQjE"
+        },
+        {
+          "titulo": "Chá Chado Pra Dois",
+          "url": "https://www.youtube.com/watch?v=gg0Bj9eY_n8"
+        },
+        {
+          "titulo": "O toque magico do pica-pau",
+          "url": "https://www.youtube.com/watch?v=yLaj5d5D-SI"
+        }        
+      ]
+    },
+    {
+      "titulo": "As Aventuras de Mickey e Donald",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Pateta da deep web",
+        "url": "https://www.youtube.com/watch?v=0JVZpcivc4U"
+      },
+      "videos": [
+        {
+          "titulo": "Consertadores De Brinquedos",
+          "url": "https://www.youtube.com/watch?v=O1SPb_vLf0s"
+        },
+        {
+          "titulo": "Mickey's Trailer",
+          "url": "https://www.youtube.com/watch?v=vq6BgafSJZ8"
+        },
+        {
+          "titulo": "O Príncipe e o Plebeu",
+          "url": "https://www.youtube.com/watch?v=9dPJ6Yk7l5c"
+        },
+        {
+          "titulo": "A Grande Lavada",
+          "url": "https://www.youtube.com/watch?v=MigTieVdBh8"
+        }, 
+        {
+          "titulo": "Três No Café Da Manhã",
+          "url": "https://www.youtube.com/watch?v=1WsCdDQWyf0"
+        }
+      ]
+    },
+    {
+      "titulo": "CataLendas",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Histórias piores que qualquer creepypasta"
+      },
+      "videos": [
+        {
+          "titulo": "Moça do Táxi",
+          "url": "https://www.youtube.com/watch?v=R8d5N2WQmx4"
+        },
+        {
+          "titulo": "O Compadre Da Morte",
+          "url": "https://www.youtube.com/watch?v=w9ntqut5FCk"
+        },
+        {
+          "titulo": "Me dá meu anel!",
+          "url": "https://www.youtube.com/watch?v=zehwYKzVfkA"
+        },
+        {
+          "titulo": "O Mapinguari",
+          "url": "https://www.youtube.com/watch?v=jzR0wXeEX7o&t=1s"
+        }
+      ]
+    },
+    {
+      "titulo": "Turma da Mônica",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Os episódios com as melhores fala 'Foge pra bem longe, pra fora do Brasil, pra Timbuktu' e 'Rebimboca da parafuseta'"
+      },
+      "videos": [
+        {
+          "titulo": "Os brincos novos que a mamãe comprou",
+          "url": "https://www.youtube.com/watch?v=wBxlJGo9iv4"
+        },
+        {
+          "titulo": "Os cinco fios mágicos",
+          "url": "https://www.youtube.com/watch?v=Wp8-3GlJq7k"
+        },
+        {
+          "titulo": "Jacaré de estimação",
+          "url": "https://www.youtube.com/watch?v=FOzpGy45mQM"
+        },
+        {
+          "titulo": "Chico Bento em: Na roça é diferente",
+          "url": "https://www.youtube.com/watch?v=Bfx_E3zvnjc"
+        },
+        {
+          "titulo": "Maratona em Casa com a Turma",
+          "url": "https://www.youtube.com/watch?v=M5Mof0JAUI0"
+        }
+      ]
+    },
+    {
+      "titulo": "Pernalonga",
+      "cor": "red",
+      "link_extra": {
+        "text": "Clique aqui eu veja o melhor clipe musical da sua vida",
+        "url": "https://www.youtube.com/watch?v=pAGrykAxkB4"
+      },
+      "videos": [
+        {
+          "titulo": "A Procura do Ouro",
+          "url": "https://www.youtube.com/watch?v=Pqo5XDQzfSI"
+        },
+        {
+          "titulo": "A Festa das Bruxas",
+          "url": "https://www.youtube.com/watch?v=GBYT1NAvnzc"
+        },
+        {
+          "titulo": "Dois Diabinhos em Forma de Coelho",
+          "url": "https://www.youtube.com/watch?v=iZBC2JhdXh4"
+        },
+        {
+          "titulo": "Como Pernalonga Conquistou o Oeste",
+          "url": "https://www.youtube.com/watch?v=Lv1klScmwq4"
+        },
+        {
+          "titulo": "Os Doidos Contos de Natal do Pernalonga",
+          "url": "https://www.youtube.com/watch?v=w-5chW-R9Cg"
+        }
+      ]
+    },
+    {
+      "titulo": "Tom & Jerry",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Hey, não clique aqui",
+        "url": "https://www.youtube.com/watch?v=U_umlYV87JY"
+      },
+      "videos": [
+        {
+          "titulo": "Ano Novo, Mesma Dupla",
+          "url": "https://www.youtube.com/watch?v=WgGkrK4QNbo"
+        },
+        {
+          "titulo": "Formas Diferentes de Tom",
+          "url": "https://www.youtube.com/watch?v=fhER6PRgHms"
+        },
+        {
+          "titulo": "The Friendship Triangle",
+          "url": "https://www.youtube.com/watch?v=rilFfbm7j8k"
+        },
+        {
+          "titulo": "O melhor de Patinho",
+          "url": "https://www.youtube.com/watch?v=snvzakfcTmY"
+        },
+        {
+          "titulo": "Coletânea de desenhos clássicos ",
+          "url": "https://www.youtube.com/watch?v=v74vhVyU51I"
+        }
+      ]
+    }
+  ]
+}
